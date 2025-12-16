@@ -20,5 +20,6 @@ foreach ($folder in $folders) {
 }
 
 # Mostrar estructura en forma de árbol
+# aquesta instrucció no funciona
 #Tree $base
 
