@@ -22,4 +22,6 @@ foreach ($folder in $folders) {
 # Mostrar estructura en forma de árbol
 # aquesta instrucció no funciona
 #Tree $base
-
+#
+#New-Item -Path ”c:\NewFolderExample\newfile.txt” -ItemType File
+#New-Item -Path '\NewExampleFolder\newfile.txt' -ItemType File
